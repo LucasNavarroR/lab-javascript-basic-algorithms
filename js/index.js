@@ -32,7 +32,7 @@ console.log(hacker1Upper);
 let hacker131 = "";
 
 for (let i = 0; i < hacker1Upper.length; i++) {
-  hacker131 += " " + hacker1Upper[i];
+  hacker131 += `${hacker1Upper[i]} `;
 }
 
 console.log(hacker131);
